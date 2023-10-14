@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="36" height="36" viewBox="0 0 36 36">
+  <g id="medication_tips" transform="translate(-228 -1024)">
+    <circle id="Ellipse_38" data-name="Ellipse 38" cx="18" cy="18" r="18" transform="translate(228 1024)" fill="#48c485"/>
+    <g id="drugs" transform="translate(236 1032)">
+      <path id="Path_8496" data-name="Path 8496" d="M13.783,164.338,9.04,169.081A5.293,5.293,0,0,1,1.554,161.6L6.3,156.852l2.2-.153,4.379,4.379Z" transform="translate(0 -150.635)" fill="#17ace8"/>
+      <path id="Path_8497" data-name="Path 8497" d="M51.829,230.919l-4.743,4.743a5.285,5.285,0,0,1-7.486,0L49.263,226l1.66,1.66Z" transform="translate(-38.046 -217.216)" fill="#1689fc"/>
+      <path id="Path_8498" data-name="Path 8498" d="M172.728,9.14l-4.743,4.743-3.743-3.743L160.5,6.4l4.743-4.743a5.293,5.293,0,0,1,7.486,7.486Z" transform="translate(-154.29 -0.1)" fill="#e5e5e5"/>
+      <path id="Path_8499" data-name="Path 8499" d="M264.385,47.186l-4.743,4.743L255.9,48.186l8.486-8.486A5.285,5.285,0,0,1,264.385,47.186Z" transform="translate(-245.947 -38.146)" fill="#d9d9d9"/>
+      <path id="Path_8500" data-name="Path 8500" d="M353.474,247.2a5.3,5.3,0,0,1-5.3,5.3L347,251.486v-8.36l1.177-1.226A5.3,5.3,0,0,1,353.474,247.2Z" transform="translate(-333.474 -232.493)" fill="#fcbf29"/>
+      <path id="Path_8501" data-name="Path 8501" d="M247.3,241.9a5.3,5.3,0,1,0,0,10.593Z" transform="translate(-232.562 -232.493)" fill="#fedb41"/>
+    </g>
+  </g>
+</svg>

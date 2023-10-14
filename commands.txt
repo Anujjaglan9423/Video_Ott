@@ -1,0 +1,2 @@
+tar -zvcf build.tgz build
+scp -P 631 build.tgz flatmate@132.148.22.155:/tmp/.
